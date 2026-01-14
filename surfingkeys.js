@@ -1,4 +1,4 @@
-api.map('U', 'P');
+api.map('P', 'U');
 api.map('t', 'on');
 api.map('J', 'E');
 api.map('H', 'S');
