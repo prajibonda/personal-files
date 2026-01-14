@@ -5,3 +5,7 @@ api.map('K', 'R');
 api.map('H', 'S');
 api.map('F', 'C');
 api.map('N', 'F');
+
+api.unmap('P')
+api.unmap('on')
+api.unmap('C')
