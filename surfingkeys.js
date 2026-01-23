@@ -3,9 +3,13 @@ api.map('t', 'on');
 api.map('J', 'E');
 api.map('K', 'R');
 api.map('H', 'S');
+api.map('L', 'D')
 api.map('N', 'F');
 api.map('F', 'C');
+
 
 api.unmap('P')
 api.unmap('on')
 api.unmap('C')
+api.unmap('S')
+api.unmap('D')
